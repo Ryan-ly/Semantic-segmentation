@@ -1,0 +1,13 @@
+easydict
+matplotlib
+numpy
+onnx
+opencv-python
+Pillow
+protobuf
+scipy
+thop
+torch
+torchvision
+tqdm
+
