@@ -76,7 +76,7 @@ def parse_args():
             '--warmup_steps',
             dest = 'warmup_steps',
             type = int,
-            default = 100,
+            default = 1000,
             )      
     parse.add_argument(
             '--mode',
